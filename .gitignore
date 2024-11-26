@@ -168,3 +168,6 @@ cython_debug/
 
 #Windows shortcut files
 *.lnk
+
+#VSCode configuration files
+**/.vscode/
